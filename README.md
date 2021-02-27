@@ -1,5 +1,6 @@
 
-ROFL `docker-compose-laravel_site`
+## Login to PHP shell and run artisan commands
+`docker-compose exec php sh`
 
 # docker-compose-laravel
 A pretty simplified Docker Compose workflow that sets up a LEMP network of containers for local Laravel development. You can view the full article that inspired this repo [here](https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0).
